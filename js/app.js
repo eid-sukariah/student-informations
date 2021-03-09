@@ -40,7 +40,7 @@ console.log(event);
     // console.log(Student.id);
 
 }
-
+saveStud ()
 
 function tableHead(){
     let head = ['id', 'Name','Email','Mobile','Age','tuition'];
